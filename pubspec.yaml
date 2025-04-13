@@ -1,7 +1,7 @@
 name: kib_utils
 description: A Dart package providing utility classes including Result for error handling.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/kibmuikia/kib_utils
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
